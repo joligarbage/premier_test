@@ -1,9 +1,8 @@
 # premier_test
-un premier test de repository
+Ceci est un premier test de repository sur GitHub 
 
-jusqu'ici tout va bien 
+Pas de projet en cours si ce n'est la formation sur OpenClassroom.
 
+Ce repository ne contient donc que des fichiers pour tester les fonctions offertes par git /GitHub 
 
-modification depuis ithub
-
-et maintenant depuis la machine locale 
+Merci à vous. 
